@@ -1,0 +1,753 @@
+{
+  "source": "New York Times",
+  "sourceLink": "https://www.nytimes.com/",
+  "articles": [
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/briefing/kenosha-melania-trump-hurricane-laura-your-wednesday-briefing.html?action=click&module=Briefings&pgtype=Homepage",
+        "https://www.nytimes.com/2020/08/26/briefing/kenosha-melania-trump-hurricane-laura-your-wednesday-briefing.html?action=click&module=Briefings&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><img alt=\"The scene between protesters and police following the shooting of Jacob Blake in Kenosha, Wis. on Monday.\" src=\"https://static01.nyt.com/images/2020/08/26/us/26ambriefing-promo/26ambriefing-promo-square640-v4.png?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=350\" decoding=\"async\"></figure></div>",
+        "<div type=\"1\" class=\"css-8oysku e18972d71\"><div class=\"css-1iexn6j e1voiwgp1\"><h2 class=\"css-nhfrhl e1voiwgp0\">The Morning</h2></div></div><div class=\"css-8oysku e18972d71\"><p class=\"css-gs67ux e1lfvv700\">Make sense of the news, every day, with David Leonhardt.</p></div>"
+      ],
+      "rawText": [
+        "",
+        "The Morning\n\nMake sense of the news, every day, with David Leonhardt."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/podcasts/the-daily/republican-convention-suburbs.html?action=click&module=Briefings&pgtype=Homepage"
+      ],
+      "html": [
+        "<div type=\"1\" class=\"css-1xdhyk6 e1no8pd50\"><div class=\"css-1iexn6j e1voiwgp1\"><h2 class=\"css-nhfrhl e1voiwgp0\">Listen to ‘The Daily’</h2></div></div><div class=\"css-1xdhyk6 e1no8pd51\"><p class=\"css-gs67ux e1lfvv700\">President Trump’s suburban strategy.</p></div>"
+      ],
+      "rawText": [
+        "Listen to ‘The Daily’\n\nPresident Trump’s suburban strategy."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/21/books/review/podcast-Dominant-Character-Samanth-Subramanian-Book-of-Eels-Patrik-Svensson.html?action=click&module=Briefings&pgtype=Homepage",
+        "https://www.nytimes.com/2020/08/21/books/review/podcast-Dominant-Character-Samanth-Subramanian-Book-of-Eels-Patrik-Svensson.html?action=click&module=Briefings&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><img alt=\"\" src=\"https://static01.nyt.com/images/2018/03/27/books/book-review-album-art-v2/book-review-album-art-v2-square320.jpg\" decoding=\"async\"></figure></div>",
+        "<div type=\"1\" class=\"css-8oysku e18972d71\"><div class=\"css-1iexn6j e1voiwgp1\"><h2 class=\"css-nhfrhl e1voiwgp0\">The Book Review Podast</h2></div></div><div class=\"css-8oysku e18972d71\"><p class=\"css-gs67ux e1lfvv700\">Samanth Subramanian and Patrik Svensson talk about their new books.</p></div>"
+      ],
+      "rawText": [
+        "",
+        "The Book Review Podast\n\nSamanth Subramanian and Patrik Svensson talk about their new books."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/us/politics/republican-convention-recap.html?action=click&module=Top%20Stories&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1vvhd4r e1voiwgp0\"><span class=\"balancedHeadline\" style=\"display: inline-block; max-width: 200.428px;\">At R.N.C., Trump Uses Tools of Presidency in Aim to Broaden Appeal</span><span class=\"ghost\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; visibility: hidden;\">At R.N.C., Trump Uses Tools of Presidency in Aim to Broaden Appeal</span></h2></div><ul class=\"css-ip5ca7 e1lfvv701\"><li>The convention swerved from the first night’s dire tone with a grab-bag of events and personal testimonials targeted especially at female and minority voters.</li><li>By appropriating the resources of his office, President Trump breached the traditional boundaries between campaigning and governing.</li></ul>"
+      ],
+      "rawText": [
+        "At R.N.C., Trump Uses Tools of Presidency in Aim to Broaden Appeal\nThe convention swerved from the first night’s dire tone with a grab-bag of events and personal testimonials targeted especially at female and minority voters.\nBy appropriating the resources of his office, President Trump breached the traditional boundaries between campaigning and governing."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/us/politics/rnc-convention.html?action=click&module=Top%20Stories&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Watch four moments that mattered on Night 2.</h2></div>"
+      ],
+      "rawText": ["Watch four moments that mattered on Night 2."],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/live/2020/08/25/us/rnc-fact-check?action=click&module=Top%20Stories&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">We fact-checked the speeches.</h2></div>"
+      ],
+      "rawText": ["We fact-checked the speeches."],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/us/politics/mike-pence-trump-vp.html?action=click&module=Top%20Stories&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1vvhd4r e1voiwgp0\"><span class=\"balancedHeadline\" style=\"display: inline-block; max-width: 215.712px;\">From Trump’s Shadow, Mike Pence Can See 2024</span><span class=\"ghost\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; visibility: hidden;\">From Trump’s Shadow, Mike Pence Can See 2024</span></h2></div><p class=\"css-1pfq5u e1lfvv700\">The vice president has grown accustomed to maneuvering around or dialing back in private what President Trump bellows in public. It’s one way he is tending to his future.</p>"
+      ],
+      "rawText": [
+        "From Trump’s Shadow, Mike Pence Can See 2024\n\nThe vice president has grown accustomed to maneuvering around or dialing back in private what President Trump bellows in public. It’s one way he is tending to his future."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/us/politics/trump-convention-night-2.html?action=click&module=Top%20Stories&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Analysis: R.N.C. Presents Trump, the American Protector</h2></div><p class=\"css-1pfq5u e1lfvv700\">The Republicans want white suburban voters to believe that the president is on their side — and that he’s on the side of immigrants and women, too.</p>"
+      ],
+      "rawText": [
+        "Analysis: R.N.C. Presents Trump, the American Protector\n\nThe Republicans want white suburban voters to believe that the president is on their side — and that he’s on the side of immigrants and women, too."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/us/politics/melania-trump.html?action=click&module=Top%20Stories&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Melania Trump’s Unique Role: Expressing Sympathy on the Virus</h2></div><p class=\"css-1pfq5u e1lfvv700\">The first lady, who rarely makes public speeches, was one of the few speakers at the convention to acknowledge the lives lost to Covid-19.</p>"
+      ],
+      "rawText": [
+        "Melania Trump’s Unique Role: Expressing Sympathy on the Virus\n\nThe first lady, who rarely makes public speeches, was one of the few speakers at the convention to acknowledge the lives lost to Covid-19."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/us/kenosha-shooting-protests-jacob-blake.html?action=click&module=Top%20Stories&pgtype=Homepage",
+        "https://www.nytimes.com/2020/08/26/us/kenosha-shooting-protests-jacob-blake.html?action=click&module=Top%20Stories&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1vvhd4r e1voiwgp0\"><span class=\"balancedHeadline\" style=\"display: inline-block; max-width: 231.996px;\">Two Killed and One Injured During Third Night of Unrest in Kenosha, Wis.</span><span class=\"ghost\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; visibility: hidden;\">Two Killed and One Injured During Third Night of Unrest in Kenosha, Wis.</span></h2></div><p class=\"css-1pfq5u e1lfvv700\">The violence occurred early Wednesday during a confrontation between demonstrators and a group of armed men as protests continued over the police shooting of Jacob Blake.</p>",
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><img alt=\"Protesters confronted police officers in Kenosha, Wis., on Tuesday night.\" src=\"https://static01.nyt.com/images/2020/08/26/world/26wisconsin-01sub/merlin_176188167_87b04d86-f726-4797-9650-e9021a1757a0-threeByTwoMediumAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale\" decoding=\"async\"><figcaption class=\"css-1i96a1m e2u1rkt1\"><section aria-hidden=\"true\" class=\"css-1xdhyk6 e2u1rkt0\">Protesters confronted police officers in Kenosha, Wis., on Tuesday night.<!-- --> <span class=\"credit\">Alyssa Schukar for The New York Times</span></section></figcaption></figure></div>"
+      ],
+      "rawText": [
+        "Two Killed and One Injured During Third Night of Unrest in Kenosha, Wis.\n\nThe violence occurred early Wednesday during a confrontation between demonstrators and a group of armed men as protests continued over the police shooting of Jacob Blake.",
+        "Protesters confronted police officers in Kenosha, Wis., on Tuesday night. Alyssa Schukar for The New York Times"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/sports/olympics/stanford-cuts-olympics.html?action=click&module=Top%20Stories&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1vvhd4r e1voiwgp0\"><span class=\"balancedHeadline\" style=\"display: inline-block; max-width: 210.721px;\">As Stanford Cuts Teams, Olympic Hopefuls All Over the U.S. Feel a Chill</span><span class=\"ghost\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; visibility: hidden;\">As Stanford Cuts Teams, Olympic Hopefuls All Over the U.S. Feel a Chill</span></h2></div><p class=\"css-1pfq5u e1lfvv700\">If the unofficial factory for Olympians, with its robust resources and deep-pocketed donors, can’t maintain its sports programs amid the pandemic, who can?</p>"
+      ],
+      "rawText": [
+        "As Stanford Cuts Teams, Olympic Hopefuls All Over the U.S. Feel a Chill\n\nIf the unofficial factory for Olympians, with its robust resources and deep-pocketed donors, can’t maintain its sports programs amid the pandemic, who can?"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/nyregion/coronavirus-fall-new-york.html?action=click&module=Top%20Stories&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Summer Wanes and Anxiety Rises Over What Fall May Bring to N.Y.C.</h2></div><p class=\"css-1pfq5u e1lfvv700\">The coronavirus has retreated in New York, but the rituals of September are disrupted, and a sense of foreboding remains about a possible second wave.</p>"
+      ],
+      "rawText": [
+        "Summer Wanes and Anxiety Rises Over What Fall May Bring to N.Y.C.\n\nThe coronavirus has retreated in New York, but the rituals of September are disrupted, and a sense of foreboding remains about a possible second wave."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/interactive/2020/us/covid-college-cases-tracker.html?action=click&module=Top%20Stories&pgtype=Homepage",
+        "https://www.nytimes.com/interactive/2020/us/covid-college-cases-tracker.html?action=click&module=Top%20Stories&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-8h527k\"><div data-testid=\"lazyimage-container\" style=\"height: auto;\"><img alt=\"\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/25/us/covid-college-cases-tracker-promo-1598402861056/covid-college-cases-tracker-promo-1598402861056-threeByTwoMediumAt2X.png?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1100\" decoding=\"async\" loading=\"lazy\" style=\"opacity: 1;\"></div></div><div class=\"css-e4gm3y\"></div></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Tracking Coronavirus Cases at U.S. Colleges and Universities</h2></div><p class=\"css-1pfq5u e1lfvv700\">As college students and professors return to campus in the midst of a pandemic, cases are turning up by the thousands. Here’s where infections are appearing.</p>"
+      ],
+      "rawText": [
+        "",
+        "Tracking Coronavirus Cases at U.S. Colleges and Universities\n\nAs college students and professors return to campus in the midst of a pandemic, cases are turning up by the thousands. Here’s where infections are appearing."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html?action=click&module=Top%20Stories&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1vvhd4r e1voiwgp0\"><span class=\"balancedHeadline\" style=\"display: inline-block; max-width: 262.667px;\">School Reopenings in Germany Offer Lessons for Others</span><span class=\"ghost\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; visibility: hidden;\">School Reopenings in Germany Offer Lessons for Others</span></h2></div><p class=\"css-1pfq5u e1lfvv700\">Fast and free testing, targeted quarantines and low community spread have helped students return to class in person. Here’s the latest.</p>"
+      ],
+      "rawText": [
+        "School Reopenings in Germany Offer Lessons for Others\n\nFast and free testing, targeted quarantines and low community spread have helped students return to class in person. Here’s the latest."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/world/middleeast/coronavirus-gaza.html?action=click&module=Top%20Stories&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Gaza Under Lockdown After First Local Cases of Virus</h2></div><p class=\"css-1pfq5u e1lfvv700\">The cases have raised fears that the virus will spread quickly and worsen the territory’s already devastated economy.</p>"
+      ],
+      "rawText": [
+        "Gaza Under Lockdown After First Local Cases of Virus\n\nThe cases have raised fears that the virus will spread quickly and worsen the territory’s already devastated economy."
+      ],
+      "media": 0
+    },
+    { "links": [], "html": [], "rawText": [], "media": 0 },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/us/hurricane-laura-update.html?action=click&module=Top%20Stories&pgtype=Homepage",
+        "https://www.nytimes.com/2020/08/26/us/hurricane-laura-update.html?action=click&module=Top%20Stories&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1vvhd4r e1voiwgp0\"><span class=\"balancedHeadline\" style=\"display: inline-block; max-width: 240.174px;\">Hurricane Laura Is Expected to Strengthen to Category 4</span><span class=\"ghost\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; visibility: hidden;\">Hurricane Laura Is Expected to Strengthen to Category 4</span></h2></div><p class=\"css-1pfq5u e1lfvv700\">Louisiana’s governor said that the window to safely flee was closing. The storm was expected to make landfall early Thursday. Follow our updates.</p>",
+        "<figure class=\"css-mky99g\"><div class=\"css-1qiat4j eqveam63\"><div class=\"css-ws86q6 eqveam60\"><div class=\"css-1ygu6hu eqveam61\"><div class=\"css-8h527k\"><div data-testid=\"lazyimage-container\" style=\"height: auto;\"><img alt=\"People boarded a bus&nbsp;on Tuesday to evacuate Lake Charles, La., before the arrival of Hurricane Laura.\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/26/us/26storm-briefing4/26storm-briefing4-threeByTwoSmallAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale\" decoding=\"async\" loading=\"lazy\" style=\"opacity: 1;\"></div></div></div></div><div class=\"css-nmg095 eqveam60\"><div class=\"css-1ygu6hu eqveam61\"><figcaption class=\"css-13u9jp3 e2u1rkt1\"><section aria-hidden=\"true\" class=\"css-1xdhyk6 e2u1rkt0\">People boarded a bus&nbsp;on Tuesday to evacuate Lake Charles, La., before the arrival of Hurricane Laura.<!-- --> <span class=\"credit\">Andrew Caballero-Reynolds/Agence France-Presse — Getty Images</span></section></figcaption></div></div></div></figure>"
+      ],
+      "rawText": [
+        "Hurricane Laura Is Expected to Strengthen to Category 4\n\nLouisiana’s governor said that the window to safely flee was closing. The storm was expected to make landfall early Thursday. Follow our updates.",
+        "People boarded a bus on Tuesday to evacuate Lake Charles, La., before the arrival of Hurricane Laura. Andrew Caballero-Reynolds/Agence France-Presse — Getty Images"
+      ],
+      "media": 0
+    },
+    { "links": [], "html": [], "rawText": [], "media": 0 },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/opinion/trump-melania-rnc.html?action=click&module=Opinion&pgtype=Homepage",
+        "https://www.nytimes.com/2020/08/26/opinion/trump-melania-rnc.html?action=click&module=Opinion&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-8h527k\"><div data-testid=\"lazyimage-container\" style=\"height: auto;\"><img alt=\"\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/26/opinion/sunday/26Bruni/26Bruni-threeByTwoSmallAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale\" decoding=\"async\" loading=\"lazy\" style=\"opacity: 1;\"></div></div><figcaption class=\"css-1blv1z4 e2u1rkt1\"><section class=\"css-1xdhyk6 e2u1rkt0\"><span class=\"credit\">Illustration by The New York Times; Photograph by Republican National Convention, via Getty Images</span></section></figcaption></figure></div>",
+        "<div class=\"css-dcl9ft\"><div class=\"css-8h527k\"><div data-testid=\"lazyimage-container\" style=\"height: auto;\"><img alt=\"Frank Bruni\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2018/04/03/opinion/frank-bruni/frank-bruni-thumbLarge.png?quality=75&amp;auto=webp&amp;disable=upscale\" decoding=\"async\" loading=\"lazy\" style=\"opacity: 1;\"></div></div></div><div class=\"css-debyuq e1voiwgp1\"><div class=\"css-1xdt15l\"><div class=\"css-1dvlumo e18df3gd0\">Frank Bruni</div></div><h2 class=\"css-1yxu27x e1voiwgp0\">The Epic Shamelessness of the Republican Convention</h2></div><p class=\"css-1pfq5u e1lfvv700\">Norms are for chumps, not for Trumps.</p>"
+      ],
+      "rawText": [
+        "Illustration by The New York Times; Photograph by Republican National Convention, via Getty Images",
+        "Frank Bruni\nThe Epic Shamelessness of the Republican Convention\n\nNorms are for chumps, not for Trumps."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/opinion/rnc-best-worst-night-2.html?action=click&module=Opinion&pgtype=Homepage",
+        "https://www.nytimes.com/2020/08/26/opinion/rnc-best-worst-night-2.html?action=click&module=Opinion&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-8h527k\"><div data-testid=\"lazyimage-container\" style=\"height: auto;\"><img alt=\"\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/26/opinion/sunday/26scorecard/26scorecard-threeByTwoSmallAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale\" decoding=\"async\" loading=\"lazy\" style=\"opacity: 1;\"></div></div><figcaption class=\"css-1blv1z4 e2u1rkt1\"><section class=\"css-1xdhyk6 e2u1rkt0\"><span class=\"credit\">Illustration by The New York Times; Photographs by Evan Vucci/Associated Press; Republican National Convention, via Associated Press</span></section></figcaption></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><div class=\"css-1xdt15l\"><div class=\"css-1dvlumo e18df3gd0\">The New York Times Opinion</div></div><h2 class=\"css-1yxu27x e1voiwgp0\">Republican Convention: Best and Worst Moments From Night 2</h2></div><p class=\"css-1pfq5u e1lfvv700\">Our columnists and contributors give their rankings.</p>"
+      ],
+      "rawText": [
+        "Illustration by The New York Times; Photographs by Evan Vucci/Associated Press; Republican National Convention, via Associated Press",
+        "The New York Times Opinion\nRepublican Convention: Best and Worst Moments From Night 2\n\nOur columnists and contributors give their rankings."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/opinion/trump-republican-convention-racism.html?action=click&module=Opinion&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-dcl9ft\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 40px;\"></div></div></div><div class=\"css-debyuq e1voiwgp1\"><div class=\"css-1xdt15l\"><div class=\"css-tnu8m6 e18df3gd0\">Thomas B. Edsall</div></div><h2 class=\"css-z9cw67 e1voiwgp0\">Trump and His Allies Don’t Like Masks of Any Kind</h2></div>"
+      ],
+      "rawText": [
+        "Thomas B. Edsall\nTrump and His Allies Don’t Like Masks of Any Kind"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/opinion/rnc-abortion-republican-party.html?action=click&module=Opinion&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-dcl9ft\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 40px;\"></div></div></div><div class=\"css-debyuq e1voiwgp1\"><div class=\"css-1xdt15l\"><div class=\"css-tnu8m6 e18df3gd0\">Lauren Kelley</div></div><h2 class=\"css-z9cw67 e1voiwgp0\">Why Only the Republicans Are Talking About Abortion</h2></div>"
+      ],
+      "rawText": [
+        "Lauren Kelley\nWhy Only the Republicans Are Talking About Abortion"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/opinion/california-wildfires-blackouts.html?action=click&module=Opinion&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-dcl9ft\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 40px;\"></div></div></div><div class=\"css-debyuq e1voiwgp1\"><div class=\"css-1xdt15l\"><div class=\"css-tnu8m6 e18df3gd0\">Farhad Manjoo</div></div><h2 class=\"css-z9cw67 e1voiwgp0\">Virus, Heat, Fire, Blackouts</h2></div>"
+      ],
+      "rawText": ["Farhad Manjoo\nVirus, Heat, Fire, Blackouts"],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/opinion/boys-state-electoral-politics.html?action=click&module=Opinion&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><div class=\"css-1xdt15l\"><div class=\"css-tnu8m6 e18df3gd0\">René Otero</div></div><h2 class=\"css-z9cw67 e1voiwgp0\">I Attended Boys State, and Survived</h2></div>"
+      ],
+      "rawText": ["René Otero\nI Attended Boys State, and Survived"],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/opinion/suffrage-19th-amendment.html?action=click&module=Opinion&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><div class=\"css-1xdt15l\"><div class=\"css-tnu8m6 e18df3gd0\">Elaine Weiss</div></div><h2 class=\"css-z9cw67 e1voiwgp0\">The Week Women’s Suffrage Almost Wasn’t</h2></div>"
+      ],
+      "rawText": ["Elaine Weiss\nThe Week Women’s Suffrage Almost Wasn’t"],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/opinion/trump-china-germany.html?action=click&module=Opinion&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-dcl9ft\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 40px;\"></div></div></div><div class=\"css-debyuq e1voiwgp1\"><div class=\"css-1xdt15l\"><div class=\"css-tnu8m6 e18df3gd0\">Thomas L. Friedman</div></div><h2 class=\"css-z9cw67 e1voiwgp0\">To Deal With China, Trump Should Learn German</h2></div>"
+      ],
+      "rawText": [
+        "Thomas L. Friedman\nTo Deal With China, Trump Should Learn German"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/opinion/biden-foreign-policy.html?action=click&module=Opinion&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><div class=\"css-1xdt15l\"><div class=\"css-tnu8m6 e18df3gd0\">Emma Ashford</div></div><h2 class=\"css-z9cw67 e1voiwgp0\">Biden Wants to Return to a ‘Normal’ Foreign Policy. That’s the Problem.</h2></div>"
+      ],
+      "rawText": [
+        "Emma Ashford\nBiden Wants to Return to a ‘Normal’ Foreign Policy. That’s the Problem."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/opinion/republicans-libertarians-economics.html?action=click&module=Opinion&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><div class=\"css-1xdt15l\"><div class=\"css-tnu8m6 e18df3gd0\">Stephanie Slade</div></div><h2 class=\"css-z9cw67 e1voiwgp0\">Republicans Are Ripping Out ‘the Very Heart and Soul’ of Their Party</h2></div>"
+      ],
+      "rawText": [
+        "Stephanie Slade\nRepublicans Are Ripping Out ‘the Very Heart and Soul’ of Their Party"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/opinion/fda-plasma-coronavirus.html?action=click&module=Opinion&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><div class=\"css-1xdt15l\"><div class=\"css-tnu8m6 e18df3gd0\">The Editorial Board</div></div><h2 class=\"css-z9cw67 e1voiwgp0\">The F.D.A. Commissioner’s Fuzzy Math</h2></div>"
+      ],
+      "rawText": ["The Editorial Board\nThe F.D.A. Commissioner’s Fuzzy Math"],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/us/womens-suffrage-femininity.html?action=click&module=Editors%20Picks&pgtype=Homepage",
+        "https://www.nytimes.com/2020/08/26/us/womens-suffrage-femininity.html?action=click&module=Editors%20Picks&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1gnqzz e1voiwgp0\"><span class=\"balancedHeadline\" style=\"display: inline-block; max-width: 209.547px;\">The Suffragists Fought to Redefine Femininity. The Debate Isn’t Over.</span><span class=\"ghost\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; visibility: hidden;\">The Suffragists Fought to Redefine Femininity. The Debate Isn’t Over.</span></h2></div><p class=\"css-1pfq5u e1lfvv700\">The campaign for the right to vote crystallized notions of femininity and motherhood that women are still expected to navigate.</p>",
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-8h527k\"><div data-testid=\"lazyimage-container\" style=\"height: auto;\"><img alt=\"\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/25/us/25ihw-sufferagist/25ihw-sufferagist-threeByTwoMediumAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1100\" decoding=\"async\" loading=\"lazy\" style=\"opacity: 1;\"></div></div><figcaption class=\"css-1blv1z4 e2u1rkt1\"><section class=\"css-1xdhyk6 e2u1rkt0\"><span class=\"credit\">Photo illustration by Chloe Cushman</span></section></figcaption></figure></div>"
+      ],
+      "rawText": [
+        "The Suffragists Fought to Redefine Femininity. The Debate Isn’t Over.\n\nThe campaign for the right to vote crystallized notions of femininity and motherhood that women are still expected to navigate.",
+        "Photo illustration by Chloe Cushman"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/arts/design/met-museum-reopening.html?action=click&module=Editors%20Picks&pgtype=Homepage",
+        "https://www.nytimes.com/2020/08/25/arts/design/met-museum-reopening.html?action=click&module=Editors%20Picks&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">The Met Is Reopening: Grab Your Timed Ticket</h2></div><p class=\"css-1pfq5u e1lfvv700\">With fewer people and more protocols, the country’s largest museum is ready to welcome visitors again.</p>",
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 231px;\"><img alt=\"New banners by Yoko Ono grace the facade of the Metropolitan Museum of Art, which is reopening to members on Thursday and the general public on Saturday.\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/26/arts/25METMUSEUM-REOPEN16/25METMUSEUM-REOPEN16-threeByTwoMediumAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=600\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div>"
+      ],
+      "rawText": [
+        "The Met Is Reopening: Grab Your Timed Ticket\n\nWith fewer people and more protocols, the country’s largest museum is ready to welcome visitors again.",
+        ""
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/books/review/the-presidents-vs-the-press-harold-holzer.html?action=click&module=Editors%20Picks&pgtype=Homepage"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Review: The Endless War Between the White House and the Press</h2></div><p class=\"css-1pfq5u e1lfvv700\">Harold Holzer’s “The Presidents vs. the Press” argues that conflicts between chief executives and journalists go back to the start of the Republic.</p>"
+      ],
+      "rawText": [
+        "Review: The Endless War Between the White House and the Press\n\nHarold Holzer’s “The Presidents vs. the Press” argues that conflicts between chief executives and journalists go back to the start of the Republic."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/world/asia/afghanistan-floods-charikar.html",
+        "https://www.nytimes.com/2020/08/26/world/asia/afghanistan-floods-charikar.html"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 240px;\"><img alt=\"Rescue workers and residents searched for survivors in Charikar, Afghanistan, on Wednesday. Devastating floods struck the city overnight.\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/26/world/26afghan-floods01/26afghan-floods01-threeByTwoMediumAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=600\" decoding=\"async\" loading=\"lazy\"></div></div><figcaption class=\"css-1blv1z4 e2u1rkt1\"><section class=\"css-1xdhyk6 e2u1rkt0\"><span class=\"credit\">Rahmat Gul/Associated Press</span></section></figcaption></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1rvhgr8 e1voiwgp0\"><span class=\"balancedHeadline\" style=\"display: inline-block; max-width: 204.139px;\">At Least 70 Killed as Flash Floods Ravage City in Afghanistan</span><span class=\"ghost\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; visibility: hidden;\">At Least 70 Killed as Flash Floods Ravage City in Afghanistan</span></h2></div><p class=\"css-1oypn1r e1lfvv700\"><span class=\"balancedHeadline\" style=\"display: inline-block; max-width: 256.344px;\">The toll in Charikar was expected to rise as rescue workers sifted through the wreckage of dozens of destroyed homes.</span><span class=\"ghost\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; visibility: hidden;\">The toll in Charikar was expected to rise as rescue workers sifted through the wreckage of dozens of destroyed homes.</span></p>"
+      ],
+      "rawText": [
+        "Rahmat Gul/Associated Press",
+        "At Least 70 Killed as Flash Floods Ravage City in Afghanistan\n\nThe toll in Charikar was expected to rise as rescue workers sifted through the wreckage of dozens of destroyed homes."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/technology/palantir-ipo.html",
+        "https://www.nytimes.com/2020/08/26/technology/palantir-ipo.html"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 110.667px;\"><img alt=\"Palantir’s headquarters in Palo Alto, Calif.&nbsp;Its flagship software technology, Gotham, was built with an eye toward use inside the C.I.A.\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/24/business/00palantir1/00palantir1-threeByTwoSmallAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=400\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">What’s a Palantir? The Tech Industry’s Next Big I.P.O.</h2></div><p class=\"css-1pfq5u e1lfvv700\">The company’s public offering could be the largest stock market listing of a tech start-up since Uber. Many are wondering: What exactly does it do?</p>"
+      ],
+      "rawText": [
+        "",
+        "What’s a Palantir? The Tech Industry’s Next Big I.P.O.\n\nThe company’s public offering could be the largest stock market listing of a tech start-up since Uber. Many are wondering: What exactly does it do?"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/business/american-airline-furlough-19000.html",
+        "https://www.nytimes.com/2020/08/25/business/american-airline-furlough-19000.html"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 110.667px;\"><img alt=\"Passenger airlines received $25 billion to help pay workers during the pandemic, but that aid is ending.\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/25/business/25airline/25airline-threeByTwoSmallAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=400\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Airline Job Cuts Could Pressure Congress and Trump on Stimulus</h2></div><p class=\"css-1pfq5u e1lfvv700\">American Airlines said it would furlough 19,000 workers if lawmakers do not extend aid to the industry, which has been hammered by the pandemic.</p>"
+      ],
+      "rawText": [
+        "",
+        "Airline Job Cuts Could Pressure Congress and Trump on Stimulus\n\nAmerican Airlines said it would furlough 19,000 workers if lawmakers do not extend aid to the industry, which has been hammered by the pandemic."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/24/climate/climate-change-survey-voters.html",
+        "https://www.nytimes.com/2020/08/24/climate/climate-change-survey-voters.html"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 110.667px;\"><img alt=\"A climate rally in San Francisco last year. The number of American voters who say climate change is extremely important to them personally has almost doubled since 2015.\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/24/climate/24CLI-SURVEY1/24CLI-SURVEY1-threeByTwoSmallAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=400\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Climate Is a Growing Issue for Voters, Research Suggests</h2></div><p class=\"css-1pfq5u e1lfvv700\">Concern about global warming is steady despite other crises, a survey found, and the number of voters who are deeply engaged on the issue is rising sharply.</p>"
+      ],
+      "rawText": [
+        "",
+        "Climate Is a Growing Issue for Voters, Research Suggests\n\nConcern about global warming is steady despite other crises, a survey found, and the number of voters who are deeply engaged on the issue is rising sharply."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/us/elections/aaron-coleman-kansas-house.html"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Kansas Candidate Who Admitted to Revenge Porn Is Back in the Race</h2></div>"
+      ],
+      "rawText": [
+        "Kansas Candidate Who Admitted to Revenge Porn Is Back in the Race"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/world/europe/turkey-domestic-abuse-treaty.html"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Turkey Considers Leaving Domestic Violence Treaty Even as Abuse Surges</h2></div>"
+      ],
+      "rawText": [
+        "Turkey Considers Leaving Domestic Violence Treaty Even as Abuse Surges"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/us/alaska-clarkson-resignation.html"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Alaska Attorney General Quits Over Texts to Female State Worker</h2></div>"
+      ],
+      "rawText": [
+        "Alaska Attorney General Quits Over Texts to Female State Worker"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/us/michigan-woman-alive-funeral-home.html"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">They Thought She Was Dead. Then She Woke Up at a Funeral Home.</h2></div>"
+      ],
+      "rawText": [
+        "They Thought She Was Dead. Then She Woke Up at a Funeral Home."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/world/asia/hongkong-arrests-lawmakers.html"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Two Hong Kong Lawmakers Among 16 Arrested Over 2019 Protests</h2></div>"
+      ],
+      "rawText": [
+        "Two Hong Kong Lawmakers Among 16 Arrested Over 2019 Protests"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html?surface=home-living-vi&fellback=false&req_id=497326877&algo=identity&imp_id=747797442",
+        "https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html?surface=home-living-vi&fellback=false&req_id=497326877&algo=identity&imp_id=747797442"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 153.333px;\"><img alt=\"\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/14/smarter-living/00sl-tonedeaf-emails/00sl-tonedeaf-emails-threeByTwoSmallAt2X-v3.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=400\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">I Hope This Email Finds You Well</h2></div>"
+      ],
+      "rawText": ["", "I Hope This Email Finds You Well"],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html?surface=home-living-vi&fellback=false&req_id=497326877&algo=identity&imp_id=243310408",
+        "https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html?surface=home-living-vi&fellback=false&req_id=497326877&algo=identity&imp_id=243310408"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 153.333px;\"><img alt=\"\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/23/multimedia/23AH-boundaries-web/23AH-boundaries-web-threeByTwoSmallAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=400\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">How to Set Pandemic Boundaries for Relatives</h2></div>"
+      ],
+      "rawText": ["", "How to Set Pandemic Boundaries for Relatives"],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html?surface=home-living-vi&fellback=false&req_id=497326877&algo=identity&imp_id=609204417"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Sharpen a Pencil and Challenge an Opponent</h2></div>"
+      ],
+      "rawText": ["Sharpen a Pencil and Challenge an Opponent"],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html?surface=home-living-vi&fellback=false&req_id=497326877&algo=identity&imp_id=164661598"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Getting Children Flu Shots Is Even More Important This Year</h2></div>"
+      ],
+      "rawText": [
+        "Getting Children Flu Shots Is Even More Important This Year"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html?surface=home-living-vi&fellback=false&req_id=497326877&algo=identity&imp_id=921831653"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">5 Simple Ways to Improve Your Wi-Fi</h2></div>"
+      ],
+      "rawText": ["5 Simple Ways to Improve Your Wi-Fi"],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/24/books/black-food-writers-cookbook-publishing.html",
+        "https://www.nytimes.com/2020/08/24/books/black-food-writers-cookbook-publishing.html"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1gnqzz e1voiwgp0\"><span class=\"balancedHeadline\" style=\"display: inline-block; max-width: 190.963px;\">Black Chefs Are Landing More Cookbook Deals. Is That Enough?</span><span class=\"ghost\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; visibility: hidden;\">Black Chefs Are Landing More Cookbook Deals. Is That Enough?</span></h2></div><p class=\"css-1pfq5u e1lfvv700\"><span class=\"balancedHeadline\" style=\"display: inline-block; max-width: 226.047px;\">African-American food writers are seeing more interest among publishers, but some warn that the industry’s problems go further than advances and paychecks.</span><span class=\"ghost\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; visibility: hidden;\">African-American food writers are seeing more interest among publishers, but some warn that the industry’s problems go further than advances and paychecks.</span></p>",
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 328.667px;\"><img alt=\"The chef J.J. Johnson.\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/19/books/19blackcookbook1/merlin_163370370_c4c04a7d-f6d1-42c6-b45c-2f2e11bc6a51-threeByTwoMediumAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1100\" decoding=\"async\" loading=\"lazy\"></div></div><figcaption class=\"css-1blv1z4 e2u1rkt1\"><section class=\"css-1xdhyk6 e2u1rkt0\"><span class=\"credit\">Karsten Moran for The New York Times</span></section></figcaption></figure></div>"
+      ],
+      "rawText": [
+        "Black Chefs Are Landing More Cookbook Deals. Is That Enough?\n\nAfrican-American food writers are seeing more interest among publishers, but some warn that the industry’s problems go further than advances and paychecks.",
+        "Karsten Moran for The New York Times"
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/fashion/new-girl-scout-uniform.html",
+        "https://www.nytimes.com/2020/08/25/fashion/new-girl-scout-uniform.html"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 110.667px;\"><img alt=\"The Girl Scouts have new uniforms.\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/27/fashion/25girlscouts-1/25girlscouts-1-threeByTwoSmallAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=400\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">The Girl Scout Uniform, Updated for Gen Z</h2></div><p class=\"css-1pfq5u e1lfvv700\">A stylish utility vest, leggings and denim: For the first time in decades, the Girl Scouts are getting new clothes.</p>"
+      ],
+      "rawText": [
+        "",
+        "The Girl Scout Uniform, Updated for Gen Z\n\nA stylish utility vest, leggings and denim: For the first time in decades, the Girl Scouts are getting new clothes."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/arts/television/emmys-sterling-k-brown-andre-braugher.html",
+        "https://www.nytimes.com/2020/08/25/arts/television/emmys-sterling-k-brown-andre-braugher.html"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 110px;\"><img alt=\"\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/26/arts/television/25emmys-brown-art/25emmys-brown-art-threeByTwoSmallAt2X-v2.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=400\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">The Nominees Whose Lives Keep Intersecting</h2></div><p class=\"css-1pfq5u e1lfvv700\">Sterling K. Brown and Andre Braugher are poised to share the Emmys spotlight, and not for the first time. They discussed cop shows and representation.</p>"
+      ],
+      "rawText": [
+        "",
+        "The Nominees Whose Lives Keep Intersecting\n\nSterling K. Brown and Andre Braugher are poised to share the Emmys spotlight, and not for the first time. They discussed cop shows and representation."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/arts/television/trevor-noah-republican-convention.html",
+        "https://www.nytimes.com/2020/08/26/arts/television/trevor-noah-republican-convention.html"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 110.667px;\"><img alt=\"“Trump’s presidency is like your 48-year-old cousin’s D.J. career — if it hasn’t been successful by now, it’s not going to be,” Trevor Noah said on Tuesday’s “Daily Show.”\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/26/arts/26latenight/26latenight-threeByTwoSmallAt2X.png?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=400\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Best of Late Night: Trevor Noah on the G.O.P.’s Sales Pitch</h2></div><p class=\"css-1pfq5u e1lfvv700\">It’s “hard to scare people about the damage Joe Biden could do after the damage Donald Trump has already done,” the late-night host said.</p>"
+      ],
+      "rawText": [
+        "",
+        "Best of Late Night: Trevor Noah on the G.O.P.’s Sales Pitch\n\nIt’s “hard to scare people about the damage Joe Biden could do after the damage Donald Trump has already done,” the late-night host said."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/24/sports/olympics/sunisa-lee-coronavirus-olympic-training.html",
+        "https://www.nytimes.com/2020/08/24/sports/olympics/sunisa-lee-coronavirus-olympic-training.html"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 110px;\"><img alt=\"“The uneven bars make me especially nervous because when you stop training, you lose sense of where the bar is going to be,” Lee said of returning to training after spending two weeks in isolation.\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/24/sports/24timeout-sunisa2-print/24timeout-sunisa2-print-threeByTwoSmallAt2X-v2.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=400\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">After a Covid Scare, an Olympic Hopeful Feels Tougher</h2></div><p class=\"css-1pfq5u e1lfvv700\">Sunisa Lee was afraid she was infected with the coronavirus. She emerged from isolation with renewed resilience and a brand-new outlook on training.</p>"
+      ],
+      "rawText": [
+        "",
+        "After a Covid Scare, an Olympic Hopeful Feels Tougher\n\nSunisa Lee was afraid she was infected with the coronavirus. She emerged from isolation with renewed resilience and a brand-new outlook on training."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/25/well/family/teens-mental-health-needs.html?surface=home-discovery-vi-prg&fellback=false&req_id=174664958&algo=identity&imp_id=724040206",
+        "https://www.nytimes.com/2020/08/25/well/family/teens-mental-health-needs.html?surface=home-discovery-vi-prg&fellback=false&req_id=174664958&algo=identity&imp_id=724040206"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 240px;\"><img alt=\"\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/20/well/00well-teens-back-to-school/00well-teens-back-to-school-threeByTwoMediumAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=600\" decoding=\"async\" loading=\"lazy\"></div></div><figcaption class=\"css-1blv1z4 e2u1rkt1\"><section class=\"css-1xdhyk6 e2u1rkt0\"><span class=\"credit\">Jo Zixuan Zhou</span></section></figcaption></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1vvhd4r e1voiwgp0\">The 2020 Back-to-School List for Teens’ Emotional Well-Being</h2></div><p class=\"css-1pfq5u e1lfvv700\">Forget backpacks and binders. Here are the essentials teenagers will need for the strange school year ahead.</p>"
+      ],
+      "rawText": [
+        "Jo Zixuan Zhou",
+        "The 2020 Back-to-School List for Teens’ Emotional Well-Being\n\nForget backpacks and binders. Here are the essentials teenagers will need for the strange school year ahead."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html?surface=home-discovery-vi-prg&fellback=false&req_id=174664958&algo=identity&imp_id=260480755",
+        "https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html?surface=home-discovery-vi-prg&fellback=false&req_id=174664958&algo=identity&imp_id=260480755"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 240px;\"><img alt=\"This year’s flu shot will protect against four different strains of the flu.&nbsp;\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/20/multimedia/par-flu/par-flu-threeByTwoMediumAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=600\" decoding=\"async\" loading=\"lazy\"></div></div><figcaption class=\"css-1blv1z4 e2u1rkt1\"><section class=\"css-1xdhyk6 e2u1rkt0\"><span class=\"credit\">Getty Images</span></section></figcaption></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1vvhd4r e1voiwgp0\">Getting Children Flu Shots Is Even More Important This Year</h2></div><p class=\"css-1pfq5u e1lfvv700\">Doctors offer advice on when and where to safely get vaccinated.</p>"
+      ],
+      "rawText": [
+        "Getty Images",
+        "Getting Children Flu Shots Is Even More Important This Year\n\nDoctors offer advice on when and where to safely get vaccinated."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/13/parenting/praising-children.html?surface=home-discovery-vi-prg&fellback=false&req_id=174664958&algo=identity&imp_id=653174221"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Are You Overpraising Your Child?</h2></div><p class=\"css-1pfq5u e1lfvv700\">All those “Good jobs!” might be undermining kids’ independence and self-confidence.</p>"
+      ],
+      "rawText": [
+        "Are You Overpraising Your Child?\n\nAll those “Good jobs!” might be undermining kids’ independence and self-confidence."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/19/well/move/e-bike-safety-exercise.html?surface=home-discovery-vi-prg&fellback=false&req_id=174664958&algo=identity&imp_id=404542522"
+      ],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">E-Bikes Are All the Rage. Should They Be?</h2></div><p class=\"css-1pfq5u e1lfvv700\">Two new studies shed light on whether pedal-assisted electric bikes provide good exercise, and how safe (or unsafe) they might be.</p>"
+      ],
+      "rawText": [
+        "E-Bikes Are All the Rage. Should They Be?\n\nTwo new studies shed light on whether pedal-assisted electric bikes provide good exercise, and how safe (or unsafe) they might be."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/opinion/rnc-best-worst-night-2.html?surface=most-popular&fellback=false&req_id=382884001&algo=bandit-all-surfaces&imp_id=504808068",
+        "https://www.nytimes.com/2020/08/26/opinion/rnc-best-worst-night-2.html?surface=most-popular&fellback=false&req_id=382884001&algo=bandit-all-surfaces&imp_id=504808068"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 153.333px;\"><img alt=\"\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/26/opinion/sunday/26scorecard/26scorecard-threeByTwoSmallAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=400\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><div class=\"css-1xdt15l\"><span class=\"css-1exjk2m e18df3gd1\">Opinion</span><div class=\"css-5jwgf2 e18df3gd0\">The New York Times Opinion</div></div><h2 class=\"css-1cmu9py e1voiwgp0\">Republican Convention: Best and Worst Moments From Night 2</h2></div><p class=\"css-1pfq5u e1lfvv700\">Our columnists and contributors give their rankings.</p>"
+      ],
+      "rawText": [
+        "",
+        "OpinionThe New York Times Opinion\nRepublican Convention: Best and Worst Moments From Night 2\n\nOur columnists and contributors give their rankings."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/opinion/rnc-abortion-republican-party.html?surface=most-popular&fellback=false&req_id=382884001&algo=bandit-all-surfaces&imp_id=259476706",
+        "https://www.nytimes.com/2020/08/26/opinion/rnc-abortion-republican-party.html?surface=most-popular&fellback=false&req_id=382884001&algo=bandit-all-surfaces&imp_id=259476706"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 153.333px;\"><img alt=\"\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/26/opinion/sunday/26Kelley/26Kelley-threeByTwoSmallAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=400\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div>",
+        "<div class=\"css-t7jcts\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 36px;\"><img alt=\"Lauren Kelley\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/06/21/opinion/lauren-kelley-author/lauren-kelley-author-thumbLarge.png?quality=75&amp;auto=webp&amp;disable=upscale\" decoding=\"async\" loading=\"lazy\"></div></div></div><div class=\"css-debyuq e1voiwgp1\"><div class=\"css-1xdt15l\"><span class=\"css-1wxqbgz e18df3gd1\">Opinion</span><div class=\"css-1yy1bg e18df3gd0\">Lauren Kelley</div></div><h2 class=\"css-1cmu9py e1voiwgp0\">Why Only the Republicans Are Talking About Abortion</h2></div><p class=\"css-1pfq5u e1lfvv700\">The G.O.P. convention featured an extreme anti-abortion activist. The Democrats mostly kept mum.</p>"
+      ],
+      "rawText": [
+        "",
+        "Opinion\nLauren Kelley\nWhy Only the Republicans Are Talking About Abortion\n\nThe G.O.P. convention featured an extreme anti-abortion activist. The Democrats mostly kept mum."
+      ],
+      "media": 0
+    },
+    {
+      "links": [
+        "https://www.nytimes.com/2020/08/26/well/live/cancer-art-Brushes-With-Cancer.html?surface=most-popular&fellback=false&req_id=382884001&algo=bandit-all-surfaces&imp_id=686611842",
+        "https://www.nytimes.com/2020/08/26/well/live/cancer-art-Brushes-With-Cancer.html?surface=most-popular&fellback=false&req_id=382884001&algo=bandit-all-surfaces&imp_id=686611842"
+      ],
+      "html": [
+        "<div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 153.333px;\"><img alt=\"“Walking In, Walking Out” reconfigures a cancer memoir, Bob Kaufman’s “Replenished,” conveying the slog through treacherous terrain to reach safer ground.\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/08/26/well/26gubar-art5/26gubar-art5-threeByTwoSmallAt2X.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=400\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div>",
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Experiences With Cancer, Captured in Works of Art</h2></div><p class=\"css-1pfq5u e1lfvv700\">The program Brushes With Cancer pairs patients with artists whose works make visible a disease that can be invisible and isolating.</p>"
+      ],
+      "rawText": [
+        "",
+        "Experiences With Cancer, Captured in Works of Art\n\nThe program Brushes With Cancer pairs patients with artists whose works make visible a disease that can be invisible and isolating."
+      ],
+      "media": 0
+    },
+    {
+      "links": ["https://www.nytimes.com/puzzles/spelling-bee"],
+      "html": [
+        "<div class=\"css-66anx\"><div class=\"css-1g8bx4t\"><figure class=\"css-mky99g\"><div class=\"css-zjzyr8\"><div data-testid=\"lazyimage-container\" style=\"height: 60px;\"><img alt=\"\" class=\"css-1j5kxti\" src=\"https://static01.nyt.com/images/2020/03/23/crosswords/spelling-bee-logo-nytgames-hi-res/spelling-bee-logo-nytgames-hi-res-thumbLarge-v3.png?quality=75&amp;auto=webp&amp;disable=upscale\" decoding=\"async\" loading=\"lazy\"></div></div></figure></div></div><div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">Try Spelling Bee</h2></div><p class=\"css-1pfq5u e1lfvv700\">Puzzle throughout the day to see how many words you can find.</p>"
+      ],
+      "rawText": [
+        "Try Spelling Bee\n\nPuzzle throughout the day to see how many words you can find."
+      ],
+      "media": 0
+    },
+    {
+      "links": ["https://www.nytimes.com/crosswords"],
+      "html": [
+        "<div class=\"css-debyuq e1voiwgp1\"><h2 class=\"css-1cmu9py e1voiwgp0\">The Crossword, Vertex and More</h2></div><p class=\"css-1pfq5u e1lfvv700\">Solve the daily puzzle edited by Will Shortz, or try out other games like the Mini and Letter Boxed.</p>"
+      ],
+      "rawText": [
+        "The Crossword, Vertex and More\n\nSolve the daily puzzle edited by Will Shortz, or try out other games like the Mini and Letter Boxed."
+      ],
+      "media": 0
+    }
+  ]
+}
